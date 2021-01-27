@@ -1,5 +1,5 @@
 // version v0.0.1
-// create by zhihua
+// create by zhihua 
 // detail url: https://github.com/ruicky/jd_sign_bot
 
 const exec = require('child_process').execSync
